@@ -1,0 +1,7 @@
+#+title: Supporting information for "A Classification-based Methodology for the Estimation of Binary Surfactant Critical Micelle Concentrations"
+
+#+author: Chetan R. Chilkunda, John R. Kitchin and Robert D. Tilton
+
+This manuscript is under review. The code for making figures can be found in [[./FINAL_figures.ipynb]].
+
+The data is found in the Excel sheets. See the Jupyter notebook for how we used them.
