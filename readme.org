@@ -5,3 +5,11 @@
 This manuscript is under review. The code for making figures can be found in [[./FINAL_figures.ipynb]].
 
 The data is found in the Excel sheets. See the Jupyter notebook for how we used them.
+
+To run the Jupyter notebook you can run it locally like this:
+
+#+BEGIN_SRC sh
+jupyter lab FINAL_figures.ipynb
+#+END_SRC
+
+Each cell should be run in sequence.
